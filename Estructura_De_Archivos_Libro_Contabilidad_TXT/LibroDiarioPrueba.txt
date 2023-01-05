@@ -1,0 +1,10 @@
+101    1271  04/02/86   Gastos de auto               -78.70      a      
+510    1271  04/02/86   Afinacion y reparacion menor 78.70       a
+101    1272  04/02/86   Renta                        -500.00     a         
+550    1272  04/02/86   Renta de abril               500.00      a
+101    1273  04/04/86   Publicidad                   -87.50      a
+505    1273  04/04/86   Anuncio en un diario         87.50       a
+102    6700  04/07/86   Gastos de oficina            -32.78      a
+540    6700  04/07/86   Cintas de impresora (6)      32.78       a
+101    1274  04/09/86   Gastos de auto               -12.50      a
+510    1274  04/09/86   Cambio de aceite             12.50       a
